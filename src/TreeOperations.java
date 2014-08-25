@@ -67,7 +67,7 @@ public class TreeOperations {
 	public static void main(String args[]) {
 		int a[] = {1,2,3,7,4,5,6};
 		TreeNode root = CreateBinaryTree(a,0,6);
-		preorderTraversalWithoutRecursion(root);
+		printInorder(root);
 		System.out.println(isElementExists(root, -1));
 
 	}
