@@ -1,3 +1,4 @@
+package com.interviewprep.trees;
 import javax.management.RuntimeErrorException;
 
 

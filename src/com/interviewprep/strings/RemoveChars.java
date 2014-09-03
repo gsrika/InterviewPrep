@@ -1,3 +1,4 @@
+package com.interviewprep.strings;
 
 public class RemoveChars {
 	
